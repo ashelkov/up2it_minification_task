@@ -1,0 +1,1 @@
+# up2it_minification_task
