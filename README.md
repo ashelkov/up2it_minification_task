@@ -33,6 +33,6 @@ solution([-6, -3, -2, -1, 0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20
 4. Мы проверяем решение и фиксируем результат - количество символов в коде
 5. Решение с наименьшим количеством символов побеждает
 6. Проверить количество симоволов в коде можно онлайн утилитой - <a href="https://www.charactercountonline.com">https://www.charactercountonline.com</a>
-7. Промежуточные результаты можно смотреть тут: <a href="https://docs.google.com/spreadsheets/d/1FhhoN8qFA3goEVU4-4S7SVVaBPhLeWCVBtNn37nRtsE/edit?usp=sharing">challenge score table</a>
+7. Промежуточные результаты можно смотреть тут: <a href="https://docs.google.com/spreadsheets/d/1FhhoN8qFA3goEVU4-4S7SVVaBPhLeWCVBtNn37nRtsE/edit?usp=sharing">score table</a>
 
 Да пребудет с Вами удача!
