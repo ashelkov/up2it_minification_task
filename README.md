@@ -28,11 +28,10 @@ solution([-6, -3, -2, -1, 0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20
 
 ## Как приинять участие?
 1. Решаете задачу в codesandbox - в файле `solution.js`
-2. Отпрвляете ссылку на свое решение (codesandbox) нам в телеграмм: `@ashelkov`
-3. Подходите к стенду Brocoders чтобы подтвердиьт результат 
-4. Мы проверяем решение и фиксируем результат - количество символов в коде
-5. Решение с наименьшим количеством символов побеждает
-6. Проверить количество симоволов в коде можно онлайн утилитой - <a href="https://www.charactercountonline.com">https://www.charactercountonline.com</a>
-7. Промежуточные результаты можно смотреть тут: <a href="https://docs.google.com/spreadsheets/d/1FhhoN8qFA3goEVU4-4S7SVVaBPhLeWCVBtNn37nRtsE/edit?usp=sharing">score table</a>
+2. Отпрвляете ссылку на свое решение или скидываете сам код нам в телеграмм: `@ashelkov`
+3. Мы проверяем решение и фиксируем результат - количество символов в коде
+4. Решение с наименьшим количеством символов побеждает
+5. Проверить количество симоволов в коде можно онлайн утилитой - <a href="https://www.charactercountonline.com">https://www.charactercountonline.com</a>
+6. Промежуточные результаты можно смотреть тут: <a href="https://docs.google.com/spreadsheets/d/1FhhoN8qFA3goEVU4-4S7SVVaBPhLeWCVBtNn37nRtsE/edit?usp=sharing">score table</a>
 
 Да пребудет с Вами удача!
